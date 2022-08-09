@@ -1,0 +1,1 @@
+{"name":"Local: upperLowerString","url":"d:\\C & C++\\C++\\strings\\upperLowerString.cpp","tests":[{"id":1660028080173,"input":"saggy","output":"SAGGY"},{"id":1660028091590,"input":"sagnik ghosh","output":"SAGNIK GHOSH"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C & C++\\C++\\strings\\upperLowerString.cpp","group":"local","local":true}

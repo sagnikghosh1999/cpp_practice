@@ -1,0 +1,1 @@
+{"name":"Local: maximumfrequency","url":"d:\\C & C++\\C++\\strings\\maximumfrequency.cpp","tests":[{"id":1660029563782,"input":"abcdefgabcdefgbda","output":"3 abd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C & C++\\C++\\strings\\maximumfrequency.cpp","group":"local","local":true}

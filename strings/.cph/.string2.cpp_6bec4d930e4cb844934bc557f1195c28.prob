@@ -1,0 +1,1 @@
+{"name":"Local: string2","url":"d:\\C & C++\\C++\\strings\\string2.cpp","tests":[{"id":1660027958251,"input":"saggy","output":"SAGGY"},{"id":1660028010983,"input":"sagnik ghosh","output":"SAGNIK GHOSH"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C & C++\\C++\\strings\\string2.cpp","group":"local","local":true}

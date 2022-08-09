@@ -1,0 +1,1 @@
+{"name":"Local: biggestSmallestNumber","url":"d:\\C & C++\\C++\\strings\\biggestSmallestNumber.cpp","tests":[{"id":1660028909516,"input":"1324","output":"4321\n1234"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C & C++\\C++\\strings\\biggestSmallestNumber.cpp","group":"local","local":true}

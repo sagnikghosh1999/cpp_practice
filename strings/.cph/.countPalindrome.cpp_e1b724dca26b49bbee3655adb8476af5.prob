@@ -1,0 +1,1 @@
+{"name":"Local: countPalindrome","url":"d:\\C & C++\\C++\\strings\\countPalindrome.cpp","tests":[{"id":1660024866577,"input":"My madam is from malayalam","output":"madam\nmalayalam\n2 palindrome words."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C & C++\\C++\\strings\\countPalindrome.cpp","group":"local","local":true}

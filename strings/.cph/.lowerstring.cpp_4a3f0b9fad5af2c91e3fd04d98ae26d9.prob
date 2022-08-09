@@ -1,0 +1,1 @@
+{"name":"Local: lowerstring","url":"d:\\C & C++\\C++\\strings\\lowerstring.cpp","tests":[{"id":1660028286690,"input":"SAgNik","output":"sagnik"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C & C++\\C++\\strings\\lowerstring.cpp","group":"local","local":true}

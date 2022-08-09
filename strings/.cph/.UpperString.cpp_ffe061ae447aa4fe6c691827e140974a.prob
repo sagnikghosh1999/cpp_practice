@@ -1,0 +1,1 @@
+{"name":"Local: UpperString","url":"d:\\C & C++\\C++\\strings\\UpperString.cpp","tests":[{"id":1660028182502,"input":"saggy","output":"SAGGY"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C & C++\\C++\\strings\\UpperString.cpp","group":"local","local":true}

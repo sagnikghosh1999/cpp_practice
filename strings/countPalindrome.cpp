@@ -51,7 +51,9 @@ int countPalin(string str)
 // Driver code
 int main()
 {
-
-    cout << countPalin("My madam is from malayalam") << " palindrome words. " << endl;
+    string str;
+    getline(cin, str);
+    // cout << str << endl;
+    cout << countPalin(str) << " palindrome words. " << endl;
     return 0;
 }
